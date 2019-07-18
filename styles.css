@@ -1,18 +1,12 @@
 body {
-    text-align: center;
+    font-family: 'Literata', serif;
 }
 
 div.main-content {
-    height: 10em;
-    position: relative;
-}
-
-div.main-content div {
-    margin: 0;
-    background: yellow;
+    text-align: center;
+    vertical-align: middle;
     position: absolute;
     top: 50%;
     left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%) 
+    transform: translateX(-50%) translateY(-75%);
 }
