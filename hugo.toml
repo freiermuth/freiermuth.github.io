@@ -12,3 +12,4 @@ theme = 'PaperMod'
     name = 'LinkedIn'
     url = 'https://www.linkedin.com/in/freiermuthjoshua/'
     weight = 30
+    hrefTargetBlank = true
