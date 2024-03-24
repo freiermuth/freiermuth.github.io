@@ -1,0 +1,14 @@
+baseURL = 'https://freiermuth.us/'
+languageCode = 'en-us'
+title = 'Joshua Freiermuth'
+theme = 'PaperMod'
+
+[menus]
+[[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+[[menus.main]]
+    name = 'LinkedIn'
+    url = 'https://www.linkedin.com/in/freiermuthjoshua/'
+    weight = 30
